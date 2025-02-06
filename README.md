@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NC-UNT24
+- 👋 Hi, I’m @SNCA-24
 - 👀 I’m interested in AI & ML / Data Science 
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI & ML
